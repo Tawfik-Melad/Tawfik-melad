@@ -4,9 +4,9 @@
 
 
 
-<h3><em>📙Study software engineering on <a href="http://www.unb.br">Assiut university</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://www.aun.edu.eg/main/)" width="30"> </h3>
- <h3>💻competitive programer in <a href="https://www.thoughtworks.com">Icpc</a><img src="https://icpc.global/" width="30"> 
-</em></h3>
+<h3>📙Study software engineering on <a href="https://www.aun.edu.eg/main/">Assiut university</a><img " width="30"> </h3>
+ <h3>💻competitive programer in <a href="https://icpc.global/">Icpc</a><img  width="30"> 
+</h3>
 
 <img align="right" alt="Coding" width="400" height="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
