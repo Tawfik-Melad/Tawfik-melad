@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm tawfik melad</h1>
+<h1 align="center">Hi 👋, I'm Tawfik melad</h1>
 <h3 align="center">I love solving problems and puzzles 💡🔑</h3>
 
 
 
 
-<h3>📙Study software engineering on <a href="https://www.aun.edu.eg/main/">Assiut university</a><img " width="30"> </h3>
+<h3> I have a Bachelor’s Degree in Software Engineering from  <a href="https://www.aun.edu.eg/main/">Assiut University</a><img " width="30"> </h3>
  <h3>💻competitive programer in <a href="https://icpc.global/">Icpc</a><img  width="30"> 
 </h3>
 
