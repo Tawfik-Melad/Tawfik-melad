@@ -8,7 +8,6 @@
  <h3>💻competitive programer in <a href="https://icpc.global/">Icpc</a><img  width="30"> 
 </h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -16,13 +15,13 @@
 
   [![Gmail Badge](https://img.shields.io/badge/-tawfikmelad25-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tawfikmelad25@gmail.com)](mailto:tawfikmelad25@gmail.com)
  <h3 align="left">Know more about me:</h3>  
-<a href="https://twitter.com/_teva__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_teva__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tawfik-melad-2b4222252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawfik-melad-2b4222252" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19563459/teva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19563459/teva" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009921218471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009921218471" height="30" width="40" /></a>
 <a href="https://instagram.com/tawfik_melad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tawfik_melad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/teva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="teva" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tawfik_melad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tawfik_melad" height="30" width="40" /></a>
+<a href="https://twitter.com/_teva__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_teva__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
